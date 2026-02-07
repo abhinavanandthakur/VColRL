@@ -155,10 +155,12 @@ For this experiment, follow the training and best model inference procedure desc
 During the best model inference stage, in addition to printing the best model details in the terminal, the script also generates a figure showing **Average Return**, **Average Colors Used**, and **Graph Satisfaction**. Example outputs for VColRL (left) and a model trained with SWC (right), trained up to 150 epochs, are shown below.
 <!-- <img width="1000" height="500" alt="plot" src="https://github.com/user-attachments/assets/aa6c3b76-8cad-4f4a-a046-3b8602e0f09e" />-->
 
-<img width="400" height="400" alt="plot_1" src="https://github.com/user-attachments/assets/8e5c08ff-90e9-40af-af04-9c3dead16980" />
-<img width="400" height="400" alt="plot" src="https://github.com/user-attachments/assets/aa7cca58-46b7-4702-9832-be5307240d44" />
+<!-- <img width="400" height="400" alt="plot_1" src="https://github.com/user-attachments/assets/8e5c08ff-90e9-40af-af04-9c3dead16980" />
+<img width="400" height="400" alt="plot" src="https://github.com/user-attachments/assets/aa7cca58-46b7-4702-9832-be5307240d44" /> -->
 
 
+<img width="400" height="400" alt="plot_1" src="https://github.com/user-attachments/assets/7542bf35-b402-4fc7-b7fb-d187b006fe06" />
+<img width="400" height="400" alt="plot" src="https://github.com/user-attachments/assets/3ebc6b78-7fbd-416d-8948-3fa97d2a61dc" />
 
 
 ## Comparison of VColRL with baselines on benchmark graphs.
